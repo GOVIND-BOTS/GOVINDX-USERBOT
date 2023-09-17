@@ -32,7 +32,7 @@ PHOTO = os.environ.get("ALIVE_PHOTTO", None)
 LEGENDX = "[LEGEND X](https://t.me/GOVIND_USERBOT)"
 VERSION = "3.1.5"
 ID = 1100231654
-REPO = "[GOVINDUSERBOT](https://github.com/GOVIND-BOTS/Govind_mp_userbot)"
+REPO = "[GOVINDUSERBOT](https://github.com/GOVIND-BOTS/GOVINDX-USERBOT)"
 PRO = bot.uid
 MASTER = f"[{NAME}](tg://user?id={PRO})"
 GROUP = "[SUPPORT GROUP](https://t.me/GOVIND_USERBOT_SUPPORT)"
