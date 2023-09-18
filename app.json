@@ -88,7 +88,7 @@
   },{
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
-    "url": "https://github.com/chrismytton/heroku-buildpack-nodejs"
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
   },{
     "url": "heroku/python"
   }]
