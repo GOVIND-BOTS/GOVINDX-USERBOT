@@ -56,7 +56,7 @@
       "required": false
     },
     "VCMODE": {
-      "description": "To install the Voice Chat plugin in LegendBot",
+      "description": "To install the Voice Chat plugin in govindbot",
       "value": "True",
       "required": false
     },
@@ -86,7 +86,7 @@
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
-    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+    "url": "https://github.com/HellBoy-OP/heroku-buildpack-ffmpeg-latest"
   },{
     "url": "heroku/python"
   }]
