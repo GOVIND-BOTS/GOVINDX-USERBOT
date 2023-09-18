@@ -86,7 +86,7 @@
   },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
-    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
+    "url": "https://github.com/HellBoy-OP/heroku-buildpack-ffmpeg-latest"
   },{
     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
   },{
