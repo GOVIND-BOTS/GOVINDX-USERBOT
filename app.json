@@ -76,17 +76,14 @@
     "options": {
       "version": "12"
     }
-  }],
-  "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-  },{
-    "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
-  },{
-    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
-  },{
-    "url": "https://github.com/HellBoy-OP/heroku-buildpack-ffmpeg-latest"
-  },{
-    "url": "heroku/python"
-  }]
+  },
+    "buildpacks": [
+    {
+      "url": "heroku/python"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ]
 }
      
