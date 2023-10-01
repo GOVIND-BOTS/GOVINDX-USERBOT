@@ -1,4 +1,4 @@
-# COPYRIGHT (C) 2021 BY GOVIND
+# COPYRIGHT (C) 2023-24 BY GOVIND
 """
 (((((((((((((((((((((((@GOVIND_OFFICIAl_MP0)))))))))))))))))))))))))))
 (((((((((((((((((((((((@GOVIND_OFFICIAl_MP0)))))))))))))))))))))))))))
@@ -29,7 +29,7 @@ pbot = Client("GOVIND", api_id=API_ID, api_hash=API_HASH, bot_token=token)
 BOT = str(botnickname) if botnickname else "GOVIND USERBOT"
 NAME = str(ALIVE_NAME) if ALIVE_NAME else "GOVIND MP"
 PHOTO = os.environ.get("ALIVE_PHOTTO", None)
-LEGENDX = "[LEGEND X](https://t.me/GOVIND_USERBOT)"
+GOVINDX = "[GOVIND X](https://t.me/GOVIND_USERBOT)"
 VERSION = "3.1.5"
 ID = 1100231654
 REPO = "[GOVINDUSERBOT](https://github.com/GOVIND-BOTS/GOVINDX-USERBOT)"
