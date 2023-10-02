@@ -80,8 +80,6 @@
   "buildpacks": [{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
-    "url": "https://github.com/Scalingo/python-buildpack"
-  },{
     "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
   },{
     "url": "heroku/python"
