@@ -78,8 +78,6 @@
    }
   }],
   "buildpacks": [{
-    "url":"https://github.com/Scalingo/nodejs-buildpack"
-  },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
     "url": "https://github.com/Scalingo/python-buildpack"
