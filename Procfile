@@ -1,1 +1,1 @@
-userbot: python -m govind
+worker: python3 -m bot
