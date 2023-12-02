@@ -1,7 +1,7 @@
 import sys
 
-import Legendbot
-from Legendbot import BOTLOG_CHATID, PM_LOGGER_GROUP_ID
+import userbot
+from userbot import BOTLOG_CHATID, PM_LOGGER_GROUP_ID
 
 from .Config import Config
 from .core.logger import logging
@@ -17,10 +17,10 @@ from .utils import (
     verifyLoggerGroup,
 )
 
-LOGS = logging.getLogger("LegendUserBot")
+LOGS = logging.getLogger("userbot")
 
-print(Legendbot.__copyright__)
-print("Licensed under the terms of the " + Legendbot.__license__)
+print(userbot.__copyright__)
+print("Licensed under the terms of the " + userbot.__license__)
 
 cmdhr = Config.HANDLER
 
